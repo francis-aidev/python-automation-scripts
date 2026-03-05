@@ -1,2 +1,11 @@
-# python-automation-scripts
-Collection of Python automation scripts for repetitive tasks.
+# Python Automation Scripts
+
+Collection of small automation scripts built with Python.
+
+## Examples
+- File renaming automation
+- Data formatting automation
+- Report generation
+
+## Goal
+Reduce repetitive manual tasks with simple Python tools.
